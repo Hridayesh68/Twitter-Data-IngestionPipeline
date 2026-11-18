@@ -1,0 +1,66 @@
+{
+  "hourly_distribution": [
+    {
+      "tweet_count": 57,
+      "hour": 6,
+      "hour_label": "06:00 UTC"
+    },
+    {
+      "tweet_count": 68,
+      "hour": 7,
+      "hour_label": "07:00 UTC"
+    },
+    {
+      "tweet_count": 57,
+      "hour": 8,
+      "hour_label": "08:00 UTC"
+    },
+    {
+      "tweet_count": 13,
+      "hour": 9,
+      "hour_label": "09:00 UTC"
+    },
+    {
+      "tweet_count": 17,
+      "hour": 14,
+      "hour_label": "14:00 UTC"
+    },
+    {
+      "tweet_count": 308,
+      "hour": 15,
+      "hour_label": "15:00 UTC"
+    },
+    {
+      "tweet_count": 130,
+      "hour": 16,
+      "hour_label": "16:00 UTC"
+    },
+    {
+      "tweet_count": 216,
+      "hour": 17,
+      "hour_label": "17:00 UTC"
+    },
+    {
+      "tweet_count": 100,
+      "hour": 18,
+      "hour_label": "18:00 UTC"
+    }
+  ],
+  "day_of_week_distribution": [
+    {
+      "day_number": 1,
+      "day_name": "Sunday",
+      "tweet_count": 395
+    },
+    {
+      "day_number": 6,
+      "day_name": "Friday",
+      "tweet_count": 191
+    },
+    {
+      "day_number": 7,
+      "day_name": "Saturday",
+      "tweet_count": 380
+    }
+  ]
+}

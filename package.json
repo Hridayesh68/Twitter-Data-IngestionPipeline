@@ -1,0 +1,17 @@
+{
+  "name": "twitter-mongodb-analytics",
+  "version": "1.0.0",
+  "description": "Twitter JSON Ingestion, MongoDB Aggregation Engine, and Interactive Analytics Dashboard",
+  "main": "scripts/ingest.js",
+  "scripts": {
+    "ingest": "node scripts/ingest.js",
+    "analyze": "node scripts/run_analysis.js",
+    "server": "node backend/server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^16.4.7",
+    "express": "^5.3.0",
+    "mongodb": "^6.12.0"
+  }
+}

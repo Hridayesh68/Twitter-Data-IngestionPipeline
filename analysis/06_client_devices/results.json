@@ -1,0 +1,39 @@
+{
+  "client_device_breakdown": [
+    {
+      "count": 258,
+      "platform": "Automated Bots & Feeds",
+      "percentage": 26.71
+    },
+    {
+      "count": 239,
+      "platform": "Social Management Platforms",
+      "percentage": 24.74
+    },
+    {
+      "count": 199,
+      "platform": "Web Client",
+      "percentage": 20.6
+    },
+    {
+      "count": 192,
+      "platform": "Other 3rd-Party Applications",
+      "percentage": 19.88
+    },
+    {
+      "count": 38,
+      "platform": "iPhone",
+      "percentage": 3.93
+    },
+    {
+      "count": 27,
+      "platform": "Android",
+      "percentage": 2.8
+    },
+    {
+      "count": 13,
+      "platform": "iPad",
+      "percentage": 1.35
+    }
+  ]
+}

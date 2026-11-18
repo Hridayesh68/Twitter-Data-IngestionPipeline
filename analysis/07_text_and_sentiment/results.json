@@ -1,0 +1,119 @@
+{
+  "dataset_kpis": {
+    "total_tweets": 966,
+    "total_retweets": 99879,
+    "total_favorites": 65359,
+    "unique_authors_count": 128,
+    "avg_retweets_per_tweet": 103.39,
+    "avg_favorites_per_tweet": 67.66,
+    "avg_hashtags_per_tweet": 0.76
+  },
+  "languages": [
+    {
+      "count": 702,
+      "language": "en"
+    },
+    {
+      "count": 166,
+      "language": "tr"
+    },
+    {
+      "count": 21,
+      "language": "es"
+    },
+    {
+      "count": 19,
+      "language": "fr"
+    },
+    {
+      "count": 10,
+      "language": "und"
+    },
+    {
+      "count": 9,
+      "language": "in"
+    },
+    {
+      "count": 7,
+      "language": "pt"
+    },
+    {
+      "count": 6,
+      "language": "ht"
+    },
+    {
+      "count": 4,
+      "language": "ro"
+    },
+    {
+      "count": 3,
+      "language": "ja"
+    }
+  ],
+  "sample_high_impact_texts": [
+    {
+      "_id": "5543a1b8251d7287a5d5677f",
+      "lang": "en",
+      "text": "RT @alex_macdonald: I will fight to support the Oxford comma until I draw my last breath. http://t.co/Y0T6c3F4iI",
+      "author": "zeldman",
+      "retweets": 9132,
+      "favorites": 0
+    },
+    {
+      "_id": "5543a1b8251d7287a5d56812",
+      "lang": "en",
+      "text": "RT @EliLanger: There are 2 kinds of people in this world. http://t.co/y8bUyrGHeo",
+      "author": "zeldman",
+      "retweets": 4061,
+      "favorites": 0
+    },
+    {
+      "_id": "553d24f33eb14d95fd717f77",
+      "lang": "en",
+      "text": "FULL-TIME: Arsenal 0-0 @ChelseaFC. #CFCLive #AFCvCFC http://t.co/5kN8Qo5xBj",
+      "author": "ChelseaFC",
+      "retweets": 3804,
+      "favorites": 1099
+    },
+    {
+      "_id": "5543a1b8251d7287a5d56804",
+      "lang": "en",
+      "text": "Meet Marilyn Mosby, the state's attorney who called Freddie Gray's death a homicide: http://t.co/CNyQhBzgDW http://t.co/0LLLCHiMyy",
+      "author": "cnnbrk",
+      "retweets": 3134,
+      "favorites": 1721
+    },
+    {
+      "_id": "553d24f33eb14d95fd717eec",
+      "lang": "en",
+      "text": "Mourinho on Arsenal fans' chants: 'Boring is 10 years without winning a Premier League title. That is boring.' #CFC",
+      "author": "ChelseaFC",
+      "retweets": 2610,
+      "favorites": 1105
+    },
+    {
+      "_id": "553d24f33eb14d95fd717f9f",
+      "lang": "en",
+      "text": "The overall death toll in the #NepalQuake has jumped to more than 2,500. http://t.co/ZJjcURh7Lu http://t.co/1ywnjhjlwC",
+      "author": "cnnbrk",
+      "retweets": 2146,
+      "favorites": 840
+    },
+    {
+      "_id": "553d24f33eb14d95fd717f6a",
+      "lang": "en",
+      "text": "FULL-TIME Arsenal 0-0 Chelsea. The Blues need a maximum of 6 points in their final 5 matches to win a 4th #BPL title http://t.co/rBcCMtyLXM",
+      "author": "premierleague",
+      "retweets": 2069,
+      "favorites": 589
+    },
+    {
+      "_id": "553bbecae8f1e57878b72a6c",
+      "lang": "ht",
+      "text": "FULL TIME: There's the final whistle! #Messi &amp; Neymar win it for 10-man Bar├ºa! ESP 0 - 2 FCB #FCBLive #EspanyolFCB http://t.co/vlowggf4Kf",
+      "author": "FCBarcelona",
+      "retweets": 1810,
+      "favorites": 1011
+    }
+  ]
+}

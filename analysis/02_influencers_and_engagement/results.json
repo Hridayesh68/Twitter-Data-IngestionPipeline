@@ -1,0 +1,266 @@
+{
+  "top_mentioned_users": [
+    {
+      "name": "LoL eSpor",
+      "screen_name": "lolespor",
+      "mentions": 14
+    },
+    {
+      "name": "webinara",
+      "screen_name": "webinara",
+      "mentions": 12
+    },
+    {
+      "name": "C# Corner",
+      "screen_name": "csharpcorner",
+      "mentions": 8
+    },
+    {
+      "name": "Offer Your",
+      "screen_name": "offeryour",
+      "mentions": 8
+    },
+    {
+      "name": "Consultingdienste.de",
+      "screen_name": "designieure",
+      "mentions": 7
+    },
+    {
+      "name": "Samantha Power",
+      "screen_name": "ambassadorpower",
+      "mentions": 7
+    },
+    {
+      "name": "MyJobCompany",
+      "screen_name": "myjobcompany",
+      "mentions": 6
+    },
+    {
+      "name": "YouTube",
+      "screen_name": "youtube",
+      "mentions": 6
+    },
+    {
+      "name": "John Brandon",
+      "screen_name": "jmbrandonbb",
+      "mentions": 5
+    },
+    {
+      "name": "Dan Roan",
+      "screen_name": "danroan",
+      "mentions": 5
+    },
+    {
+      "name": "AngularJS Center",
+      "screen_name": "angularjscenter",
+      "mentions": 4
+    },
+    {
+      "name": "Manchester City FC",
+      "screen_name": "mcfc",
+      "mentions": 4
+    },
+    {
+      "name": "DZone Links",
+      "screen_name": "dzonelinks",
+      "mentions": 4
+    },
+    {
+      "name": "BBC Breaking News",
+      "screen_name": "bbcbreaking",
+      "mentions": 4
+    },
+    {
+      "name": "Muhamad Hassan Tariq",
+      "screen_name": "hasan_tariq",
+      "mentions": 4
+    }
+  ],
+  "top_viral_accounts": [
+    {
+      "_id": "5545e52c23877707ea64d4a0",
+      "screen_name": "istanbul_techie",
+      "name": "Nezih Yigitbasi",
+      "verified": false,
+      "followers": 366,
+      "retweet_count": 1288,
+      "favorite_count": 0,
+      "virality_ratio": 3.5191,
+      "tweet_text": "RT @ldavidmarquet: Leadership isn't for the select few at the top. In highly effective organizations, there are leaders at every level.\nhttΓÇª"
+    },
+    {
+      "_id": "553d24f33eb14d95fd717f99",
+      "screen_name": "yenerm",
+      "name": "Murat Yener",
+      "verified": false,
+      "followers": 1458,
+      "retweet_count": 996,
+      "favorite_count": 0,
+      "virality_ratio": 0.6831,
+      "tweet_text": "RT @DepressedDarth: Worth the read http://t.co/gQjx3Iqmmz"
+    },
+    {
+      "_id": "5543a1b8251d7287a5d567ab",
+      "screen_name": "dadoonet",
+      "name": "David Pilato",
+      "verified": false,
+      "followers": 2227,
+      "retweet_count": 719,
+      "favorite_count": 0,
+      "virality_ratio": 0.3229,
+      "tweet_text": "RT @NachoSoto: Software Development. And why I never trust the \"we'll fix it later\" mentality. http://t.co/lL7FoKxLat"
+    },
+    {
+      "_id": "5543a1b8251d7287a5d567eb",
+      "screen_name": "swannodette",
+      "name": "David Nolen",
+      "verified": false,
+      "followers": 11721,
+      "retweet_count": 1313,
+      "favorite_count": 0,
+      "virality_ratio": 0.112,
+      "tweet_text": "RT @NBCNightlyNews: BREAKING: #FreddieGray's death was homicide; criminal charges to be filed, Baltimore StateΓÇÖs Attorney says http://t.co/ΓÇª"
+    },
+    {
+      "_id": "5545e52c23877707ea64d4a5",
+      "screen_name": "istanbul_techie",
+      "name": "Nezih Yigitbasi",
+      "verified": false,
+      "followers": 366,
+      "retweet_count": 33,
+      "favorite_count": 0,
+      "virality_ratio": 0.0902,
+      "tweet_text": "RT @TechCrunch: Mobile Action Raises $2 Million To Help App Makers Attract More Users http://t.co/47HwGwZjRc by @sarahintampa"
+    },
+    {
+      "_id": "5543a1b8251d7287a5d5677f",
+      "screen_name": "zeldman",
+      "name": "Jeffrey Zeldman",
+      "verified": true,
+      "followers": 340353,
+      "retweet_count": 9132,
+      "favorite_count": 0,
+      "virality_ratio": 0.0268,
+      "tweet_text": "RT @alex_macdonald: I will fight to support the Oxford comma until I draw my last breath. http://t.co/Y0T6c3F4iI"
+    },
+    {
+      "_id": "5543a1b8251d7287a5d56812",
+      "screen_name": "zeldman",
+      "name": "Jeffrey Zeldman",
+      "verified": true,
+      "followers": 340353,
+      "retweet_count": 4061,
+      "favorite_count": 0,
+      "virality_ratio": 0.0119,
+      "tweet_text": "RT @EliLanger: There are 2 kinds of people in this world. http://t.co/y8bUyrGHeo"
+    },
+    {
+      "_id": "5545e52c23877707ea64d4dd",
+      "screen_name": "IzmirGDG",
+      "name": "GDG ─░zmir",
+      "verified": false,
+      "followers": 364,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "virality_ratio": 0.0082,
+      "tweet_text": "#devfestspring ba┼ƒlamak ├╝zere, ge├º kalmay─▒n ! #gdg #devfestizmir"
+    },
+    {
+      "_id": "553be107e8f1e57878b72b1d",
+      "screen_name": "JavaFact",
+      "name": "JavaFact",
+      "verified": false,
+      "followers": 1289,
+      "retweet_count": 4,
+      "favorite_count": 2,
+      "virality_ratio": 0.0047,
+      "tweet_text": "Using Rhino with #Java 8 - #CoreJava #Java8 #JavaScript http://t.co/RSX4XQr0EE"
+    },
+    {
+      "_id": "553be107e8f1e57878b72b90",
+      "screen_name": "reza_rahman",
+      "name": "Reza Rahman",
+      "verified": false,
+      "followers": 1965,
+      "retweet_count": 9,
+      "favorite_count": 0,
+      "virality_ratio": 0.0046,
+      "tweet_text": "RT @ensode: Including my #JavaEE with #NetBeans video. https://t.co/pakqX5p3Ug https://t.co/dFVxX1ezAd"
+    },
+    {
+      "_id": "553be107e8f1e57878b72b45",
+      "screen_name": "SabriReyiziniz",
+      "name": "Sabri Reyiz",
+      "verified": false,
+      "followers": 404957,
+      "retweet_count": 538,
+      "favorite_count": 1092,
+      "virality_ratio": 0.004,
+      "tweet_text": "4nc├╝ hakem uzatmay─▒ g├╢sterdi :( http://t.co/OPBfHad9DN"
+    },
+    {
+      "_id": "5545e52c23877707ea64d499",
+      "screen_name": "aonut",
+      "name": "Ayse Onut",
+      "verified": false,
+      "followers": 256,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "virality_ratio": 0.0039,
+      "tweet_text": "K├╢t├╝ insan yoktur; iyi niyeti suistimal edile edile k├╢t├╝le┼ƒtirilmi┼ƒ insan vard─▒r."
+    },
+    {
+      "_id": "553be107e8f1e57878b72b3a",
+      "screen_name": "ultrAslan",
+      "name": "ultrAslan",
+      "verified": false,
+      "followers": 867712,
+      "retweet_count": 1465,
+      "favorite_count": 1748,
+      "virality_ratio": 0.0037,
+      "tweet_text": "SEN ┼₧AMP─░YON OLACAKSINNNNNNNN! \nSEN─░ SEVMEYEN ├ûLS├£NNNNNNNNNNN!"
+    },
+    {
+      "_id": "553d24f33eb14d95fd717f58",
+      "screen_name": "ameanmbot",
+      "name": "Mean Magazine Bot",
+      "verified": false,
+      "followers": 1679,
+      "retweet_count": 6,
+      "favorite_count": 0,
+      "virality_ratio": 0.0036,
+      "tweet_text": "RT @remoteworkingio: HTML5 Canvas Game Tutorial: AngularJS &amp; CreateJS \n#HTML5 #AngularJS #CreateJS #JavaScript\nhttp://t.co/5spolozyJ6 http:ΓÇª"
+    },
+    {
+      "_id": "553be107e8f1e57878b72b47",
+      "screen_name": "ameanmbot",
+      "name": "Mean Magazine Bot",
+      "verified": false,
+      "followers": 1678,
+      "retweet_count": 6,
+      "favorite_count": 0,
+      "virality_ratio": 0.0036,
+      "tweet_text": "RT @enunomaduro: http://t.co/qcszsjsT7H #Lifty Almost reaching half of predicted features. Aid to recovery people with autism. #Yii2 #AngulΓÇª"
+    }
+  ],
+  "verified_vs_unverified_reach": [
+    {
+      "total_retweets": 12020,
+      "total_favorites": 10916,
+      "account_type": "Unverified",
+      "tweet_count": 493,
+      "avg_followers": 147475,
+      "avg_retweets": 24.38,
+      "avg_favorites": 22.14
+    },
+    {
+      "total_retweets": 87859,
+      "total_favorites": 54443,
+      "account_type": "Verified",
+      "tweet_count": 473,
+      "avg_followers": 5795267,
+      "avg_retweets": 185.75,
+      "avg_favorites": 115.1
+    }
+  ]
+}

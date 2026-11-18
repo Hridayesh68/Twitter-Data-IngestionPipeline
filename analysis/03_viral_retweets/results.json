@@ -1,0 +1,101 @@
+{
+  "composition": [
+    {
+      "count": 966,
+      "type": "Retweet",
+      "percentage": 100
+    }
+  ],
+  "top_10_amplified_tweets": [
+    {
+      "original_author": "alex_macdonald",
+      "author_name": "Alexander MacDonald",
+      "tweet_text": "I will fight to support the Oxford comma until I draw my last breath. http://t.co/Y0T6c3F4iI",
+      "global_retweet_count": 9132,
+      "global_favorite_count": 8064,
+      "appearances_in_sample": 1,
+      "tweet_id": "593581559325839360"
+    },
+    {
+      "original_author": "EliLanger",
+      "author_name": "Eli Langer",
+      "tweet_text": "There are 2 kinds of people in this world. http://t.co/y8bUyrGHeo",
+      "global_retweet_count": 4061,
+      "global_favorite_count": 2413,
+      "appearances_in_sample": 1,
+      "tweet_id": "572081933452218368"
+    },
+    {
+      "original_author": "JordiAlba",
+      "author_name": "Jordi Alba",
+      "tweet_text": "Hoy d├¡a especial,un a├▒o que se marcho pero siempre en nuestra memoria,Gracias Tito.\nGrande Equipo!Vamos!!#For├ºaBar├ºa. http://t.co/fvtmh287bC",
+      "global_retweet_count": 1793,
+      "global_favorite_count": 2012,
+      "appearances_in_sample": 1,
+      "tweet_id": "592029939970506752"
+    },
+    {
+      "original_author": "3gerardpique",
+      "author_name": "Gerard Piqu├⌐",
+      "tweet_text": "Gran victoria en Cornell├á! Som-hi Bar├ºa! http://t.co/nMF458SC9t",
+      "global_retweet_count": 1661,
+      "global_favorite_count": 2507,
+      "appearances_in_sample": 1,
+      "tweet_id": "592015834928779264"
+    },
+    {
+      "original_author": "BBCBreaking",
+      "author_name": "BBC Breaking News",
+      "tweet_text": "Baltimore's top prosecutor says Freddie Gray's death in US police custody was a homicide http://t.co/tolkeYjXSl",
+      "global_retweet_count": 1449,
+      "global_favorite_count": 668,
+      "appearances_in_sample": 1,
+      "tweet_id": "594152267642753024"
+    },
+    {
+      "original_author": "StationCDRKelly",
+      "author_name": "Scott Kelly",
+      "tweet_text": "My #bedroom aboard #ISS. All the comforts of #home. Well, most of them. #YearInSpace http://t.co/2Ur09qccLI",
+      "global_retweet_count": 1351,
+      "global_favorite_count": 2402,
+      "appearances_in_sample": 1,
+      "tweet_id": "591594008046084096"
+    },
+    {
+      "original_author": "NBCNightlyNews",
+      "author_name": "NBC Nightly News",
+      "tweet_text": "BREAKING: #FreddieGray's death was homicide; criminal charges to be filed, Baltimore StateΓÇÖs Attorney says http://t.co/XUL4gjtX05",
+      "global_retweet_count": 1313,
+      "global_favorite_count": 451,
+      "appearances_in_sample": 1,
+      "tweet_id": "594150729092341760"
+    },
+    {
+      "original_author": "ldavidmarquet",
+      "author_name": "David Marquet",
+      "tweet_text": "Leadership isn't for the select few at the top. In highly effective organizations, there are leaders at every level.\nhttps://t.co/zyC8ZKdKpX",
+      "global_retweet_count": 1288,
+      "global_favorite_count": 1442,
+      "appearances_in_sample": 1,
+      "tweet_id": "576527914289618944"
+    },
+    {
+      "original_author": "BBCBreaking",
+      "author_name": "BBC Breaking News",
+      "tweet_text": "Death toll from #NepalEarthquake rises above 1,000, police say as world leaders vow to help http://t.co/ZetrMJxtrC http://t.co/VOfD2mfVZG",
+      "global_retweet_count": 1186,
+      "global_favorite_count": 406,
+      "appearances_in_sample": 1,
+      "tweet_id": "591995493015789568"
+    },
+    {
+      "original_author": "DepressedDarth",
+      "author_name": "Darth Vader",
+      "tweet_text": "Worth the read http://t.co/gQjx3Iqmmz",
+      "global_retweet_count": 996,
+      "global_favorite_count": 1426,
+      "appearances_in_sample": 1,
+      "tweet_id": "592335973087862784"
+    }
+  ]
+}

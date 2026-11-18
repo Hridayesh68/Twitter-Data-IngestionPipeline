@@ -1,0 +1,126 @@
+{
+  "top_15_hashtags": [
+    {
+      "count": 29,
+      "hashtag": "angularjs"
+    },
+    {
+      "count": 29,
+      "hashtag": "nodejs"
+    },
+    {
+      "count": 27,
+      "hashtag": "fcblive"
+    },
+    {
+      "count": 22,
+      "hashtag": "javascript"
+    },
+    {
+      "count": 19,
+      "hashtag": "lfc"
+    },
+    {
+      "count": 19,
+      "hashtag": "globalmoms"
+    },
+    {
+      "count": 18,
+      "hashtag": "webinar"
+    },
+    {
+      "count": 18,
+      "hashtag": "espanyolfcb"
+    },
+    {
+      "count": 17,
+      "hashtag": "iwci"
+    },
+    {
+      "count": 13,
+      "hashtag": "job"
+    },
+    {
+      "count": 12,
+      "hashtag": "redbizuk"
+    },
+    {
+      "count": 11,
+      "hashtag": "jobs"
+    },
+    {
+      "count": 11,
+      "hashtag": "mongodb"
+    },
+    {
+      "count": 11,
+      "hashtag": "wba"
+    },
+    {
+      "count": 10,
+      "hashtag": "bpl"
+    }
+  ],
+  "top_co_occurring_pairs": [
+    {
+      "hashtag_pair": "#espanyolfcb + #fcblive",
+      "count": 18
+    },
+    {
+      "hashtag_pair": "#javascript + #nodejs",
+      "count": 11
+    },
+    {
+      "hashtag_pair": "#lfc + #wba",
+      "count": 11
+    },
+    {
+      "hashtag_pair": "#angularjs + #javascript",
+      "count": 9
+    },
+    {
+      "hashtag_pair": "#marketing + #sales",
+      "count": 8
+    },
+    {
+      "hashtag_pair": "#bizitalk + #redbizuk",
+      "count": 5
+    },
+    {
+      "hashtag_pair": "#redbizuk + #udobiz",
+      "count": 5
+    },
+    {
+      "hashtag_pair": "#hiring + #jobs",
+      "count": 4
+    },
+    {
+      "hashtag_pair": "#fcblive + #messi",
+      "count": 4
+    },
+    {
+      "hashtag_pair": "#hiring + #nodejs",
+      "count": 3
+    },
+    {
+      "hashtag_pair": "#job + #jobs",
+      "count": 3
+    },
+    {
+      "hashtag_pair": "#dev + #mongodb",
+      "count": 3
+    },
+    {
+      "hashtag_pair": "#gulpjs + #nodejs",
+      "count": 3
+    },
+    {
+      "hashtag_pair": "#angularjs + #job",
+      "count": 3
+    },
+    {
+      "hashtag_pair": "#devfestizmir + #devfestspring",
+      "count": 3
+    }
+  ]
+}

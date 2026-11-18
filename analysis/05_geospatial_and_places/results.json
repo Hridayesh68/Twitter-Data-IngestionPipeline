@@ -1,0 +1,67 @@
+{
+  "geo_coverage_summary": {
+    "total_tweets": 966,
+    "exact_coordinates_count": 0,
+    "place_metadata_count": 5,
+    "no_geo_data": 961
+  },
+  "top_countries": [
+    {
+      "country_code": null,
+      "tweet_count": 961,
+      "country": null
+    },
+    {
+      "country_code": "IN",
+      "tweet_count": 2,
+      "country": "India"
+    },
+    {
+      "country_code": "US",
+      "tweet_count": 1,
+      "country": "United States"
+    },
+    {
+      "country_code": "GB",
+      "tweet_count": 1,
+      "country": "United Kingdom"
+    },
+    {
+      "country_code": "TR",
+      "tweet_count": 1,
+      "country": "T├╝rkiye"
+    }
+  ],
+  "top_cities": [
+    {
+      "country": null,
+      "tweet_count": 961,
+      "place_name": null
+    },
+    {
+      "country": "India",
+      "tweet_count": 1,
+      "place_name": "Ghaziabad, Uttar Pradesh"
+    },
+    {
+      "country": "United States",
+      "tweet_count": 1,
+      "place_name": "La Guardia Airport, Queens"
+    },
+    {
+      "country": "India",
+      "tweet_count": 1,
+      "place_name": "Noida, Uttar Pradesh"
+    },
+    {
+      "country": "United Kingdom",
+      "tweet_count": 1,
+      "place_name": "Brighton, England"
+    },
+    {
+      "country": "T├╝rkiye",
+      "tweet_count": 1,
+      "place_name": "─░stanbul, T├╝rkiye"
+    }
+  ]
+}
